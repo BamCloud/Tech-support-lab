@@ -1,9 +1,9 @@
 Engineer Notes:
 - Wrote PowerShell script to create new user profile when corruption can't be fixed (included).
 New-profie.ps1
-# PowerShell script to create a new user profile
+ PowerShell script I used to create a new user profile
 
-$Username = Read-Host "Enter the new username"
+$Username = Read-Host "Ade"
 $Password = Read-Host "Enter password" -AsSecureString
 
 # Create local user
